@@ -1,5 +1,3 @@
-package javaplayground;
-
 public class EncryptingGrade {
     
     public static void main(String[] args) {

@@ -1,5 +1,3 @@
-package javaplayground;
-
 public class Star_printing {
     public static void main(String[] args) {
        

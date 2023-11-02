@@ -1,5 +1,3 @@
-package javaplayground;
-
 import java.util.Scanner;
 
 // Create a program to calculate installment amount for per month
